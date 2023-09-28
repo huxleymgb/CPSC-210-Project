@@ -1,0 +1,26 @@
+{"characters": [
+    {
+        "str": 3,
+        "wis": 3,
+        "dex": 3,
+        "name": "a",
+        "cla": "b",
+        "intel": 3,
+        "cha": 3,
+        "life": true,
+        "cons": 3,
+        "desc": "c"
+    },
+    {
+        "str": 3,
+        "wis": 3,
+        "dex": 3,
+        "name": "x",
+        "cla": "y",
+        "intel": 3,
+        "cha": 3,
+        "life": true,
+        "cons": 3,
+        "desc": "z"
+    }
+]}

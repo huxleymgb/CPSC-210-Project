@@ -1,0 +1,38 @@
+{"characters": [
+  {
+    "str": 18,
+    "wis": 18,
+    "dex": 18,
+    "name": "Tobs",
+    "cla": "Fighter",
+    "intel": 18,
+    "cha": 18,
+    "life": true,
+    "cons": 18,
+    "desc": "Dog"
+  },
+  {
+    "str": 10,
+    "wis": 10,
+    "dex": 10,
+    "name": "Pirate",
+    "cla": "Rogue",
+    "intel": 10,
+    "cha": 10,
+    "life": true,
+    "cons": 10,
+    "desc": "Arr!"
+  },
+  {
+    "str": 10,
+    "wis": 10,
+    "dex": 10,
+    "name": "Bob",
+    "cla": "Barbarian",
+    "intel": 10,
+    "cha": 10,
+    "life": true,
+    "cons": 10,
+    "desc": "Bob"
+  }
+]}
